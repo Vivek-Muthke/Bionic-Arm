@@ -8,4 +8,4 @@ Features:
 
 Contents:
 1. Design Files: CAD models and schematics for the bionic arm.
-2. Firmware: Code for controlling the servos and other electronic components.
+2. Firmware: Code for choosing grip patterns using (A,B,C,D,E,F,N) commands in the serial monitor.
